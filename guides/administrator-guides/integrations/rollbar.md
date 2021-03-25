@@ -1,4 +1,4 @@
-# Sentry
+# Rollbar
 
 Add Rollbar notifications via a new WebHook in Rocket.Chat This script works for the Rollbar.com
 
